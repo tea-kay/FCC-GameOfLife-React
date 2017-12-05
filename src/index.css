@@ -1,5 +1,5 @@
 body {
-  background-color: darkgrey;
+  background-color: #868e96;
 }
 
 .box {
@@ -16,11 +16,11 @@ body {
 }
 
 .on {
-  background-color: green;
+  background-color: #28a745;
 }
 
 .box:hover {
-  background: #00CCFF;
+  background: #007bff;
 }
 
 .center {
